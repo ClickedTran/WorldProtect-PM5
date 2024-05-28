@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ClickedTran/WorldProtect-PM5
+build-by-default: true
+branches:
+- Master
+projects:
+  WorldProtect-PM5:
+    path: ""
+...
