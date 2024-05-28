@@ -369,7 +369,7 @@ Returns an integer or null.
 * 3.5.0: Update to API 5.0.0
   - Fixed BanCMD
   - Fixed BanItem
-  - Fixed Unbreakale
+  - Fixed Unbreakable
 * 3.0.0: Update to API 4.0.0
   - Fixed inventory saving when switching gamemodes
   - Typehinted and return typed all methods
