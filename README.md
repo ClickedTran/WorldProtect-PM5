@@ -31,7 +31,7 @@ that.  You are more likely to get a response and help that way.
 
 _NOTE:_
 
-This documentation was last updated for version **3.0.0**.
+This documentation was last updated for version **3.5.0**.
 
 Please go to
 [github](https://github.com/poggit-orphanage/WorldProtect)
