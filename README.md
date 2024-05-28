@@ -8,7 +8,7 @@
 # WorldProtect
 
 - Summary: protect worlds from griefers, pvp, limits and borders
-- PocketMine-MP version: 4.0.0
+- PocketMine-MP version: 5.0.0
 - DependencyPlugins: N/A
 - OptionalPlugins: SimpleAuth, BasicHUD 
 - Categories: Anti-Griefing 
@@ -366,7 +366,10 @@ Returns an integer or null.
 * A: Enable gm-save-inv module.
 
 # Changes
-
+* 3.5.0: Update to API 5.0.0
+  - Fixed BanCMD
+  - Fixed BanItem
+  - Fixed Unbreakale
 * 3.0.0: Update to API 4.0.0
   - Fixed inventory saving when switching gamemodes
   - Typehinted and return typed all methods
