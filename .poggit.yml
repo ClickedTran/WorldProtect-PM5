@@ -5,4 +5,5 @@ branches:
 projects:
   WorldProtect-PM5:
     path: ""
+    icon: worldprotect.png
 ...
