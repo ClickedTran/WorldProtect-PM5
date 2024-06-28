@@ -10,10 +10,9 @@
 - Summary: protect worlds from griefers, pvp, limits and borders
 - PocketMine-MP version: 5.0.0
 - DependencyPlugins: N/A
-- OptionalPlugins: SimpleAuth, BasicHUD 
 - Categories: Anti-Griefing 
 - Plugin Access: Commands, Data Saving, World Editing 
-- Website: https://github.com/poggit-orphanage/WorldProtect
+- Website | Original plugin: https://github.com/poggit-orphanage/WorldProtect
 
 <!-- end-include -->
 
@@ -22,16 +21,12 @@
 <!-- php: $v_forum_thread = "http://forums.pocketmine.net/threads/worldprotect.7517/"; -->
 <!-- template: prologue.md -->
 
-**DO NOT POST QUESTIONS/BUG-REPORTS/REQUESTS IN THE REVIEWS**
-
 It is difficult to carry a conversation in the reviews.  If you
 have a question/bug-report/request please use the
-[Issue Tracker](https://github.com/poggit-orphanage/WorldProtect/issues) for
+[Issue Tracker](https://github.com/ClickedTran/WorldProtect-PM5/issues) for
 that.  You are more likely to get a response and help that way.
 
 _NOTE:_
-
-This documentation was last updated for version **3.5.0**.
 
 Please go to
 [github](https://github.com/poggit-orphanage/WorldProtect)
@@ -43,7 +38,7 @@ You can also download this plugin from this [page](https://poggit.pmmp.io/p/Worl
 
 A fully featured World protection plugin.
 
-Features:
+## Features:
 
 <!-- snippet:features -->
 * Ban commands on a per world basis
