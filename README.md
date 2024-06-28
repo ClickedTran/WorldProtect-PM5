@@ -28,9 +28,7 @@ that.  You are more likely to get a response and help that way.
 
 _NOTE:_
 
-Please go to
-[github](https://github.com/poggit-orphanage/WorldProtect)
-for the most up-to-date documentation.
+I (ClickedTran) am not the owner of this plugin, that person is `aliuly` , I just upgraded it to PocketMine-MP 5.x.y!
 
 You can also download this plugin from this [page](https://poggit.pmmp.io/p/WorldProtect).
 
